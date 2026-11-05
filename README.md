@@ -1,3 +1,8 @@
+> **foxnaim** · Node.js-приложение для печати чеков на чековых принтерах с разметкой Markdown
+>
+> Готовая основа под клиентский проект. Стек: JavaScript.
+> Лицензия Apache-2.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # ReceiptIO
 
 Node.js printing application for receipt printers, simple and easy with receipt markdown, printer status support.  
